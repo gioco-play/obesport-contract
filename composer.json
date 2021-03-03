@@ -1,0 +1,18 @@
+{
+    "name": "gioco-plus/obesport-contract",
+    "description": "obesport Interface",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tkd9714",
+            "email": "chunwei.liu@goldenf.co"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\OBESPORT\\": "src/"
+        }
+    },
+    "require": {}
+}
